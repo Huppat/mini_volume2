@@ -2,7 +2,7 @@
 Type=Application
 Name=Mini Volume
 Comment=Lautstärke-Kontrolle mit Mausrad in der Taskleiste
-Exec=/usr/bin/python3 /home/hubi/dbg/tmp/cctest/mini_volume2.py
+Exec=/home/hubi/dbg/tmp/cctest/mini_volume2
 Hidden=false
 NoDisplay=false
 X-GNOME-Autostart-enabled=true
